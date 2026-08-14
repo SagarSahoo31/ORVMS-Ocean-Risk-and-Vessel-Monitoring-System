@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+venv/
+env/
+ENV/
+
+# Python compiled
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment & Secrets
+.env
+.env.local
+*.pem
+*.key
+
+# Database & Logs
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Build & Dist outputs
+dist/
+build/
+.system_generated/
+.gemini/
+
+# OS & Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+scratch/

@@ -1,0 +1,38 @@
+﻿# Git
+.git
+.gitignore
+.gitattributes
+
+# Environment & Secrets
+.env
+.env.local
+backend/.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Dev files
+scratch/
+IMPLEMENTATION_SUMMARY.md
+DEPLOYMENT_GUIDE.md
+QUICK_DEPLOY.md
