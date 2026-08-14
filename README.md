@@ -152,9 +152,3 @@ orvms/
 | **LLM Integrations** | Google Gemini, OpenAI GPT, Anthropic Claude, OpenRouter, Ollama |
 | **Frontend** | HTML5, Vanilla JavaScript (ES6+), Vanilla CSS (Glassmorphism) |
 | **Mapping** | Leaflet.js, Leaflet.markercluster, Three.js, Globe.gl, Chart.js |
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
